@@ -3,20 +3,17 @@ Name: Prashanth Koushik
 Week 1 (Summary)
 | DATE  |  HOURS  | COMMIT ID | INFO
 | 09/20 | 3,0 hrs | N/A       | Dev set up begins: installed python, and reactJS.
-| 09/21 | 2.0 hrs | 782bb9c   | Discuss possible changes in the backlog and sprint one task delagation to make usre everyone is on the same page. Did flask tutorial in the 	 |		 |		   |		   | evening.
-| 09/22 | 3.0 hrs |	N/A	      |	Continuing flask tutorial and update repos to have most recent.
-| 09/23 | 1.5 hrs |	N/A	      |	Installed mongodb, looks at set up, continued flask tutorial.
-| 09/24 | 2.0 hrs |	17101a6   |	Installed pip and completed dev set up and discussed how to move forward for next week.
-
+| 09/21 | 2.0 hrs | 782bb9c   | Discuss possible changes in the backlog and sprint one task delagation to make usre everyone is on the same page. Did flask tutorial in the
+|       |	  |	      | evening.
+| 09/22 | 3.0 hrs | N/A       | Continuing flask tutorial and update repos to have most recent.
+| 09/23 | 1.5 hrs | N/A       | Installed mongodb, looks at set up, continued flask tutorial.
+| 09/24 | 2.0 hrs | 17101a6   |	Installed pip and completed dev set up and discussed how to move forward for next week.
 
 Week 2 (Plan)
 | DATE  |  HOURS  | AGENDA
 | 09/25 | 2,0 hrs | Start login page
 | 09/26 | 2.0 hrs | Two hour meeting after 307 class in order to make sure everyone is on task and has started on their stories/tasks.
-| 09/27 | 1.0 hrs |	Integrate flask authentication to login page
-| 09/28 | 2.0 hrs |	Two hour meeting after 307 class in order to make sure everyone stories are getting completed.
-| 09/30 | 2.0 hrs |	Finish login story and have a presentable demo to the group.
-| 10/01 | 2.0 hrs |	Meeting to go over weekly progress and merage different portions of the project together.
-
-
-
+| 09/27 | 1.0 hrs | Integrate flask authentication to login page
+| 09/28 | 2.0 hrs | Two hour meeting after 307 class in order to make sure everyone stories are getting completed.
+| 09/30 | 2.0 hrs | Finish login story and have a presentable demo to the group.
+| 10/01 | 2.0 hrs | Meeting to go over weekly progress and merage different portions of the project together.
