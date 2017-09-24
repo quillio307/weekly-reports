@@ -1,10 +1,10 @@
 === Weekly Team Report (Team 7 - Quillio)=== 
 
 Week 1 (Summary) (Scrum Master: Jenna Ellis)
-9/21   2 hrs  <id>	Group decision to integrate React into project at a later date.
-							Initial commits to quillio and test_projects repository. 
+9/21   2 hrs  0dbd202 Group decision to integrate React into project at a later date.
+							 Initial commits to quillio and test_projects repository. 
 
-9/24   2 hrs  <id>  Group session to set up heroku CLI and dependencies.
+9/24   2 hrs  N/A   Group session to set up heroku CLI and dependencies.
 						  Team evaluated a sample template flask app Charlie made,
 						  decision to follow app structure into our project. 
 
@@ -15,9 +15,9 @@ Week 2 (Plan) (Scrum Master: Jenna Ellis)
 10/1 Discuss roadblocks, bugs, readjust workload in order to finish out sprint.
 
 [Individual Goals]
-Jenna Ellis: 
-Charlie Crouse: 
-Ammar Husain: 
-Jiwon "Daniel Kim": 
-Prashanth Koushik: 
-Anoop Jain: 
+Jenna Ellis: Implement meeting model front end creation and test
+Charlie Crouse: Implement meeting model and unit tests
+Ammar Husain: Create Group, Speech to text research, and recording (if time permits)
+Jiwon "Daniel" Kim: implement group admin designation 
+Prashanth Koushik: Finish login front end and style
+Anoop Jain: Get CMU Sphinx and/or Google Speech to Text working - test runs

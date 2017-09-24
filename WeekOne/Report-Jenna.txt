@@ -8,7 +8,7 @@ Week 1 (Summary)
 9/21	3 hrs		e3437cb		Initial Commit to test repo, set up flask env and
 									sample application
 9/22  3 hrs    9b1f8b9		Create login forms on test, integrate with a db
-9/24  1 hr		<insert>    In quillio, create user model
+9/24  1 hr		<insert>    In quillio, create user model and front end
 
 
 Week 2 (Plan)
