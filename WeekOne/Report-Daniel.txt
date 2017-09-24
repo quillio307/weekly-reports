@@ -1,0 +1,15 @@
+=== Weekly Individual Report (Team 7: Quillio) ===
+Name: Daniel Kim
+
+Week 1 (Summary)
+09/19    3 hrs   N/A       Worked on sprint planning document
+09/20    2 hrs   N/A       Installed dev tools and finished tutorial for heroku
+09/21    3 hrs   N/A	   Redid dev setup because linux had to be reinstalled
+09/23    1 hr    N/A       Started flask tutorial
+09/24    2 hrs   693a4613  Finalized dev tools and pushed bare bone flask to master
+
+Week 2 (Plan)
+09/27    2 hrs   Install/setup/learn mongoDB
+09/27    3 hrs   Create search bar to search for users in a group
+09/28  2.5 hrs   Making a user in a group admin
+09/29  2.5 hrs   Unit tests for admin in group
