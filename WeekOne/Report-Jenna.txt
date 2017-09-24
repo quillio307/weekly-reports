@@ -1,1 +1,20 @@
 === Weekly Individual Report (Team 7 - Quillio) ===
+Name: Jenna Ellis
+
+Week 1 (Summary)
+9/19  1 hr		N/A			Initialize trello board, assign members to tasks
+9/20  2 hr     N/A			Set up development environment, clone git repos, and run
+									the beginning info on flask/react tutorials
+9/21	3 hrs		e3437cb		Initial Commit to test repo, set up flask env and
+									sample application
+9/22  3 hrs    9b1f8b9		Create login forms on test, integrate with a db
+9/24  1 hr		<insert>    In quillio, create user model
+
+
+Week 2 (Plan)
+9/25	2 hrs		Create templates for user creation on front end, integrate with
+					user model and password requirements established on backend
+9/26  2 hrs		Unit test user creation with stressed input cases
+9/27  3 hrs    Create meeting model in flask backend, create front end for meeting
+					creation
+9/28  3 hrs		Restrict meeting creation to a logged in user, unit tests
