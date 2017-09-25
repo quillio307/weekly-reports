@@ -1,0 +1,4 @@
+=== Weekly Individual Report (Team 7: Quillio) ===
+Name: Charlie Crouse
+
+Week #1: (Dev Setup / Authentication)
