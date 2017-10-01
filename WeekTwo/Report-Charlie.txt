@@ -1,0 +1,20 @@
+=== Weekly Individual Report (Team 7: Quillio) ===
+Name: Charlie Crouse
+
+Week #2 (Summary)
+DATE	HOURS	ID	DESCRIPTION
+- - - - - - - - - - - - - - - - - -
+09/25	3.5	b052178	Got A barebones authentication system working
+09/26	3	0de00a8	Integrated flask security, not for having passwords but for user roles
+09/27	1		Reviewed current code base and handled some merges
+09/28	2		Started configuring unit tests
+09/29	.5		Did some testing
+
+
+Week #3 (Plan)
+DATE	HOURS	DESCRIPTION
+10/02	2	Work on Meeting model with Jenna
+10/03	3	Create endpoints for meeting creation
+10/04	4	Create endpoints for viewing past meetings
+10/06	1	Clean up the UI for the developed views
+

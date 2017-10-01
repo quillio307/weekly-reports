@@ -1,4 +1,21 @@
 === Weekly Individual Report (Team 7: Quillio) ===
 Name: Charlie Crouse
 
-Week #1: (Dev Setup / Authentication)
+Week #1 (Summary)
+DATE	HOURS	ID	DESCRIPTION
+- - - - - - - - - - - - - - - - - -
+09/20	2.5	N/A	Planning for the week & environment configuration
+09/21	3.0	add9020	Set up the development environment, but realized CassandraDB is really expensive to use.  So I had to reset up my development environment.
+09/22	3.5	722bc04	Submitted a sample project layout for the team to follow/learned a lot about flask
+09/23	3	N/A	Created small flask app that outlines the basics of the project structure for the team to reference.  https://github.com/quillio307/sample
+09/24	4	bd1d90b	Restructured the project to support blueprints and a cleaner dev environment.  Also worked on the user authentication process.
+
+
+Week #2 (Plan)
+DATE	HOURS	DESCRIPTION
+09/25	2	Get authentication working
+09/26	2	Incorporate flask-security to encrypt user passwords
+09/27	3	Create Model for Meetings
+09/28	2	Create official dev database environment
+09/29	3	Clean up the UI for the developed views
+
