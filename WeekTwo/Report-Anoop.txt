@@ -1,0 +1,16 @@
+=== Weekly Individual Report (Team 7: Quillio) ===
+Name: Anoop Jain
+Week 2 (Summary)
+09/25 3 Training CMUSphinx model to be better at recognizing speech (this will probably take a LOT longer than 3 hours)
+09/26 2 Spend more time learning React to complete search bar ticket (idk frontend rn)
+09/27 3 Mess more with CMUSphinx to see if the training worked and continue to optimize 
+09/28 3 Spend more time figuring out how to save things returned from CMUSphinx into database
+09/29 2 See if Google Speech to Text is better than CMUSphinx
+09/30 2 Decided that Google Speech to Text is much easier to implement that CMUSphinx and started to mess with it
+Week 3 (Plan)
+10/01 2 Writing a basic application using Google Speech to Text 
+10/03 3 Research how to customize the GST algorithm to work well for speaker diarization and conversational speech 
+10/04 2 Implement search function
+10/05 3 Work with Ammar on integrating GST stuff with database models 
+10/06-10/08 5 Work on whatever else I haven't done yet
+

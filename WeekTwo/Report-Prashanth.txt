@@ -1,0 +1,18 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Prashanth Koushik
+Week 2 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 09/25 | 1.0 hrs |  dc10cf5  | Understanding Flask framework in skeleton code that uses Jinja templating/blocks.
+| 09/26 | 3.0 hrs |  6e66b4d  | Knocked out login page.
+| 09/27 | 2.0 hrs |  0359708  | Code clean up of web templates and layout html pages with redesign.
+| 09/28 | 2.5 hrs |  fff4316  | Added meeting login page and finished UI for signup and login creating a uniform design. Reviewed pull requests. 
+| 09/30 | 1.0 hrs |  N/A      |	Spent time going through user model to see how to implement admin... waiting on Group to be finished --> prepare for sunday's meeting.
+| 10/01 | 1.0 hrs |  N/A      | Weekly Sunday meeting with discussion about how to move forward with Daniel for Admin integration.
+
+Week 3 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/02 | 2,0 hrs | Start admin model in group backend.
+| 10/03 | 2.0 hrs | Two hour meeting after 307 class in order to make sure everyone is on task and has started on their stories/tasks, but also finish story with Daniel about |                   admins.
+| 10/04 | 3.0 hrs | Start and finish meeting page (DASHBOARD)
+| 10/05 | 2.0 hrs | Two hour sprint review meeting with group only and help others on their tasks.
+| 10/06 | 1.0 hrs | Sprint Review meeting.

@@ -1,0 +1,17 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Ammar Husain
+Week 2 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 09/25 | 2 hrs   | b2731a3   | Work on group model
+| 09/26 | 2 hrs   | 7c964e2   | Add group routes
+| 09/27 | 2 hrs   | 228dba9   | Create validations for groups
+| 09/28 | 4 hrs   | ae15168   | Fixing dependancy issues and model proxy.
+| 09/30 | 0 hrs   | N/A       | No hours committed.
+| 10/01 | 0 hrs   | N/A       | No hours committed.
+
+Week 3 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/02 | 2.0 hrs | Finish UI.
+| 10/03 | 5.0 hrs | Swarm on speech to text with Anoop.
+| 10/04 | 3.0 hrs | Work on audio upload for UI.
+| 10/06 | 2.0 hrs | Go over final bugs and issues.

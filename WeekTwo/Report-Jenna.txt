@@ -1,0 +1,20 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Jenna Ellis
+
+Week 2 (Summary)
+DATE		HOURS		COMMIT ID		INFO
+9/25		2			75a1f92			Created SignUp view, built out CSS
+9/26		2			863e55b			Fixed merge conflicts, fixed front end bugs with signup, updated config file for security implementation, researched password encryption w flask
+9/27		3			cefb47f			Installed different versions of Bcrypt for flask, tested different versions with our program structure. Implemented one version, added password encryption for user creation and for user login. 
+9/28		2			19b9a6b			Cleaned github, code review, reset database entries for encrpytion
+10/1		1			N/A				Meeting for planning, reports, and preparation for demo
+
+
+Week 2 (Plan)
+DATE		HOURS		INFO
+10/2		1			Begin work on Meeting model for backend
+10/3		2			Finish meeting model, begin work on UI for creating a meeting
+10/4		2			Finish UI for creating a meeting, and plan for redirect
+10/5		2			Polish CSS for frontend, implement logged_in restrictions
+10/6		2			Finish up any loose ends, debug meeting creation, demo
+10/7		1			Make updates based off of feedback from demo
