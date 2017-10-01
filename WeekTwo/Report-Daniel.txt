@@ -1,0 +1,17 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 2 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 09/27 | 2.0 hrs |  N/A      | Finished flask/heroku tutorials.
+| 09/29 | 3.0 hrs |           | Started page for searching users.
+| 10/30 | 2.0 hrs |  0359708  | Worked on searching users.
+| 10/01 | 1.0 hr  |  N/A      | Discussion about how to move forward with PK for admin integration.
+| 10/01 | 2.0 hrs |  N/A      | Team Meeting.
+
+Week 3 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/02 | 3.0 hrs | Finish search bar
+| 10/03 | 2.0 hrs | Two hour meeting after 307 class in order to make sure everyone is on task and has started on their stories/tasks.
+| 10/04 | 3.0 hrs | Search bar for users in a group
+| 10/05 | 2.0 hrs | Two hour sprint review meeting with group only and help others on their tasks.
+| 10/06 | 1.0 hrs | Sprint Review meeting.
