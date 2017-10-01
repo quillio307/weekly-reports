@@ -1,0 +1,22 @@
+=== Weekly Team Report (Team 7 - Quillio)=== 
+
+Week 2 (Summary) (Scrum Master: Jenna Ellis)
+9/26   2 hrs  6468687   Discussed front end progress. Also discussed issues with Heroku for certain people. 
+
+9/28   2 hrs  N/A       Created a repository for transcription code. Decided to use GST.
+
+10/01  30 minutes  N/A       Wrote the weekly reports.
+
+Week 3 (Plan) (Scrum Master: Jenna Ellis)
+[Meetings]
+10/03  Assess progress on meeting and group creation.
+10/05  Make sure that everybody will finish their sprint and reassign based on that 
+10/08  Write progress reports
+
+[Individual Goals]
+Jenna Ellis: Finish meeting model and frontend for meeting creation.
+Charlie Crouse: Create meeting model and implement security around meeting creation.
+Ammar Husain: Design and implement Group UI, meetings recorded and transcribed.
+Jiwon "Daniel" Kim: Finish search bar for users, adding admin to groups.
+Prashanth Koushik: Start admin model and group backend, finish dashboard/meeting page
+Anoop Jain: Resarch and implement Google Speech to text API and have meetings recorded and transcribed.
