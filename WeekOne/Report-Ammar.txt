@@ -1,0 +1,18 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Ammar Husain
+Week 1 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 09/20 | 3 hrs   | N/A       | Work on dev setup, setup heroku, research CassandraDB, flask tutorial
+| 09/21 | 2.0 hrs | N/A   	  | Went through flask tut, setup mongolab and mongodb, file structure
+| 09/22 | 3.0 hrs | d911346       | Created barebones app with login, logout, and landing, connected to mlab. Added core dev dependencies, gunicorn, pep8
+| 09/23 | 2 hrs   | N/A       | Installed mongodb, looks at set up, continued flask tutorial.
+| 09/24 | 0 hrs   | N/A       | No hours committed.
+
+Week 2 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 09/25 | 2.0 hrs | Work on group model
+| 09/26 | 2.0 hrs | Add group routes
+| 09/27 | 2.0 hrs | Create validations for groups
+| 09/28 | 2.0 hrs | Create UI modal creating groups
+| 09/30 | 2.0 hrs | Bugs and issues for modal
+| 10/01 | 0 hrs   | No hours committed.
