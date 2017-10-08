@@ -4,7 +4,7 @@ Name: Charlie Crouse
 Week #2 (Summary)
 DATE	HOURS	ID	    DESCRIPTION
 - - - - - - - - - - - - - - - - - -
-10/02	.5	  Helped Daniel with learning the codebase
+10/02	.5	    Helped Daniel with learning the codebase
 10/03 5     68616a0 Added the ability to create a new meeting
 10/04 5     9fce90e refined the meeting module and helped with overall cleanup
 10/05 12    0a060aa Finished the rest of my sprint tasks
