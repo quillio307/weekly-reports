@@ -3,12 +3,11 @@ Name: Jenna Ellis
 
 Week 3 (Summary)
 DATE		HOURS		COMMIT ID		INFO
-
-
-
-
+10/3		3			13d0afc			Created meeting model and simple forms for meeting model creation
+10/4		4			N/A				Research unit testing with flask, put together small test suite for user creation and login 
+10/5		3			5f76217			Fix bugs with testing, work with everyone on miscellaneous bugs and tasks to be completed before the end of the sprint
 
 
 Week 4 (Plan) 
 DATE		HOURS		INFO
-
+10/9		2			Work on sprint retrospective independently 
