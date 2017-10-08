@@ -1,0 +1,16 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 3 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 10/04 | 4.0 hrs |  1e1648d  | Worked on meeting creation with Charlie.
+| 10/05 | 4.0 hrs |  5818cce  | Worked on creating active meeting URL with Charlie.
+| 10/05 | 5.0 hrs |  f5767d5  | Worked on creating a search function for meeting name.
+| 10/06 | 6.0 hrs |  7a08292  | Added search function for users by email.
+| 10/06 | 4.0 hrs |  634eb79  | Worked on admin page for group to add/remove memberss and admins.
+
+Week 4 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/10 | 3.0 hrs | Meeting to create sprint planning document.
+| 10/11 | 2.0 hrs | Start on my first story of the sprint.
+| 10/12 | 2.0 hrs | Meeting to clean up code after 307
+| 10/14 | 4.0 hrs | Finish my first story of the sprint and team meeting.
