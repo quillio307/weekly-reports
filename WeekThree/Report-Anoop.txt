@@ -1,0 +1,14 @@
+=== Weekly Individual Report (Team 7: Quillio) ===
+Name: Anoop Jain
+Week 3 (Summary)
+10/01 2 3f04ab7 Writing a basic application using Google Speech to Text 
+10/03 3 N/A Research how to customize the GST algorithm to work well for speaker diarization and conversational speech 
+10/04 3 e254d82 Work with Ammar on integrating GST stuff with database models 
+10/05 2 ea2700d Tested transcription coalesce algorithm with more than 2 audio files
+10/06 3 N/A Prepared for and did sprint review.
+...
+Week 4 (Plan)
+10/09 2 Research integration of Google Cloud Storage with GST
+10/10 2 Group meeting, sprint retrospective and weekly reports
+10/11 4 Sprint planning document
+10/12-10/14 >4 Spend time working on work assigned for the 2nd sprint
