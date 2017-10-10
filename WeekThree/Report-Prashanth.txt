@@ -1,0 +1,25 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Prashanth Koushik
+Week 3 (Summary)
+| DATE  |  HOURS   | COMMIT ID | INFO
+| 10/03 | 2.00 hrs |  7403268  | Side nav of the UI became broken after template change and integration with Ammar's group model, so I had to fix that. 
+| 10/04 | 5.00 hrs |  72e183a  | Code clean up of jinja template. Fixed admin model. Finished dynamic meeting and group pages.
+| 10/05 | 12.0 hrs |  8c95c51  | Finished UI design in terms of creation of meeting, group, and search. Helped other team members with their stories.
+| 10/06 | 2.00 hrs |  af567a2  | Tested features manually and merged final code with master.
+
+Week 4 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/10 | 2.0 hrs | Finish Sprint Retrospective and weekly reports during meeting.
+| 10/11 | 3.0 hrs | Start Sprint 2 Planning doc
+| 10/12 | 1.0 hrs | Finish Sprint 2 Planning doc
+| 10/13 | 1.0 hrs | Update trello
+| 10/14 | 1.0 hrs | Review tasks that are assigned to me and plan how to implement them. 
+| 10/15 | 2.0 hrs | Weekly group meeting on Sunday
+
+Week 5 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/17 | 1.0 hrs | Weekly Meeting
+| 10/18 | 3.0 hrs | Code cleanup
+| 10/19 | 1.0 hrs | Weekly Meeting
+| 10/20 | 4.0 hrs | Finish my first story
+| 10/22 | 1.0 hrs | Weekly group meeting on Sunday
