@@ -10,4 +10,18 @@ DATE		HOURS		COMMIT ID		INFO
 
 Week 4 (Plan) 
 DATE		HOURS		INFO
-10/9		2			Work on sprint retrospective independently 
+10/9		1			Work on sprint retrospective independently
+10/10		2			Work on team reports, sprint retrospective, discuss what we need to work on the next sprint
+10/11		2			Finish sprint retrospective, get do sprint2 planning document and assign tasks
+10/12		2			Update trello board, finish sprint2 planning document
+10/13		2			Start work on sprint 2 tasks and management
+10/14		1			Continue work on stories for sprint 2
+
+
+
+The following plan is not specific because our Sprint 2 planning has not occurred as of yet. 
+Week 5 (Plan)
+DATE		HOURS		INFO
+10/18		4			Work on significant portions of sprint 2 tasks
+10/19		4			Heavy work on sprint 2 tasks	
+10/20		2			Sprint 2 tasks
