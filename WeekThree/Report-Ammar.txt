@@ -1,0 +1,16 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Ammar Husain
+Week 3 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 10/04 | 3.0 hrs |  c299709  | Worked on groups UI.
+| 10/05 | 4.0 hrs |  7360dea  | Worked on Socket Barebones.
+| 10/05 | 5.0 hrs |  7360dea  | Worked on Socket routes for quillio meetings.
+| 10/06 | 6.0 hrs |  8c68721  | Worked on audio for sockets.
+| 10/06 | 4.0 hrs |  9da05e9  | Worked on socket upload
+
+Week 4 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/10 | 3.0 hrs | Meeting to create sprint planning document
+| 10/11 | 2.0 hrs | Start on NLP research
+| 10/12 | 2.0 hrs | Get some test data summarization
+| 10/14 | 2.0 hrs | Fix socket upload
