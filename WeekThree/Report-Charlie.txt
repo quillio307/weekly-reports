@@ -1,7 +1,7 @@
 === Weekly Individual Report (Team 7: Quillio) ===
 Name: Charlie Crouse
 
-Week #2 (Summary)
+Previous Week (Summary)
 DATE	HOURS	ID	    DESCRIPTION
 - - - - - - - - - - - - - - - - - -
 10/02	.5	    Helped Daniel with learning the codebase
@@ -9,8 +9,16 @@ DATE	HOURS	ID	    DESCRIPTION
 10/04 5     9fce90e refined the meeting module and helped with overall cleanup
 10/05 12    0a060aa Finished the rest of my sprint tasks
 
-Week #3 (Plan)
+This Week (Plan)
 DATE	HOURS	DESCRIPTION
-10/08 2     Code Cleanup
-10/09 2     Start On Sprint Doc for sprint 2
-10/10 1     Finish Sprint Doc for sprint 2
+10/08 5     Code Cleanup
+10/09 4     Start On Sprint Doc for sprint 2
+10/10 2     Finish Sprint Doc for sprint 2
+
+Next Week (Plan)
+DATE	HOURS	DESCRIPTION
+10/13 2     Work on sprint tasks
+10/15 2     Work on sprint tasks
+10/16 2     Work on sprint tasks
+10/17 1     Work on sprint tasks
+10/18 4     Work on sprint tasks
