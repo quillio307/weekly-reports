@@ -14,3 +14,9 @@ Week 4 (Plan)
 | 10/11 | 2.0 hrs | Start on my first story of the sprint.
 | 10/12 | 2.0 hrs | Meeting to clean up code after 307
 | 10/14 | 4.0 hrs | Finish my first story of the sprint and team meeting.
+
+Week 5 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/17 | 6.0 hrs | Integrate Chips into user input
+| 10/19 | 2.0 hrs | Test Chips
+| 10/21 | 2.0 hrs | Meeting with team for code clean up / general discussion.
