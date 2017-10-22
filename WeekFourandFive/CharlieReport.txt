@@ -1,0 +1,20 @@
+=== Weekly Individual Report (Team 7: Quillio) ===
+Name: Charlie Crouse
+
+Previous Weeks (Summary)
+DATE	HOURS	ID	    DESCRIPTION
+- - - - - - - - - - - - - - - - - -
+10/08	4	    af567a2 Restructure
+10/11 2     N/A     Sprint Retrospective
+10/12 4     N/A     Sprint 2 Doc
+10/15 1     N/A     Re-engineering Meeting
+10/16 2     782c249 Re-engineering Meeting
+10/17 4     7d9cca3 Re-engineering Meeting
+10/19 4     ef9a686 Re-engineering Group
+
+Next Week (Plan)
+DATE	HOURS	DESCRIPTION
+10/23 3     Complete email confirmation with Jenna
+10/25 2     Start tagging
+10/26 2     Refine Note Module
+10/27 3     Complete tagging
