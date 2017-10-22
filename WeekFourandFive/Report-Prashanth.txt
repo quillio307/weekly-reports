@@ -13,7 +13,7 @@ Week 5 (Summary)
 | 10/18 | 2.0 hrs |    N/A	  | Code clean up
 | 10/19 | 2.0 hrs |  c5857c7  | Code clean up and research on various parts of the project.
 | 10/20 | 3.0 hrs |	   N/A	  | First story planning and restructuring code with new libraries that have been added.
-| 10/22 | 1.0 hrs |    N/A	  | Weekly group meeting on Sunday
+| 10/22 | 1.0 hrs |  a187cce  | Weekly group meeting on Sunday
 
 Week 6 (Plan)
 | DATE  |  HOURS  | AGENDA

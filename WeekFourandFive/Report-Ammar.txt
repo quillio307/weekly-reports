@@ -1,0 +1,25 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Prashanth Koushik
+Week 4 (Summary)
+| DATE  |  HOURS  | COMMIT ID | AGENDA
+| 10/11 | 0 hrs   |    N/A    | 
+| 10/12 | 0 hrs   |    N/A    | 
+| 10/13 | 0 hrs   |    N/A    | 
+| 10/14 | 0 hrs   |    N/A	  | 
+| 10/15 | 0 hrs   |    N/A	  |
+
+Week 5 (Summary)
+| DATE  |  HOURS  | COMMIT ID | AGENDA
+| 10/18 | 0 hrs   |    N/A	  | 
+| 10/19 | 4.0 hrs |    N/A    | NGNIX demo running on local computer for microservices
+| 10/20 | 2.0 hrs |	   N/A	  | read up on message queues and redis
+| 10/22 | 0 hrs   |    N/A    |
+
+Week 6 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/24 | 0 hrs   | 
+| 10/25 | 4.0 hrs | Integrate websockets into main module
+| 10/26 | 4.0 hrs | Keyword tagging API
+| 10/27 | 4.0 hrs | Summarization API
+| 10/28 | 4.0 hrs | Get modules coded for each one
+| 10/29 | 4.0 hrs | Speech to text streaming
