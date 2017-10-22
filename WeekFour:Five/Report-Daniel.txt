@@ -1,0 +1,20 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 4 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 10/17 | 2.0 hrs |    N/A    | Team meeting. Talked about this week's priorities and schedule.
+| 10/19 | 2.0 hrs |    N/A    | Team meeting. Discussed what to merge and what to seperate within functions and files.
+| 10/19 | 4.0 hrs |  ef9a686  | Separated search and post functions such as updating the group or meeting for both group and meeting module.
+| 10/22 | 2.0 hrs |    N/A    | Team meeting. Created individual reports and overviewed weekly team report for objectives for next week.
+
+Week 5 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/24 | 6.0 hrs | Integrate Chips into user input
+| 10/26 | 2.0 hrs | Test Chips
+| 10/28 | 2.0 hrs | Meeting with team for code clean up / general discussion.
+
+Week 6 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/31 | 4.0 hrs | Display transcripts in a meeting directory 
+| 11/02 | 6.0 hrs | Let users edit displayed transcript 
+| 11/04 | 4.0 hrs | Rerun through tagging algorithm and update tags
