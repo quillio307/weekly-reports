@@ -3,11 +3,21 @@ Name: Jenna Ellis
 
 Week 4/5 (Summary)
 DATE		HOURS		COMMIT ID		INFO
-
-
-
+10/11		2			N/A				Work on Sprint Retrospective document
+10/12		4			edfb8a2			Sprint planning meeting, document draft, polishing, and submission
+10/16		3			N/A				Research SendGrid and Celery emailing services, ran some mockups using sendgrid on a separate project
+10/18		2			381daf7			General code cleaup from last sprint in user authentication, creation, and general front end code
+10/18ctd 2			7584685			Begin integrating sendgrid into existing application, set up helpers and run some small tests
+10/19		2			392c761			Fix some bugs that are being encountered with emailing
+10/22		1			N/A				Team meeting to review progress, discuss plans for next week
 
 
 
 Week 6 (Plan)
 DATE		HOURS		INFO
+10/23		2			Fix bugs with email, successfully send a general signup email. Work on email templates 
+10/24		2			Finish creating all email templates for all purposes and being putting them into the system for sending
+10/25		2			Run tests, begin creating account activation links and generation
+10/26		2			Password reset links. Research for tagging stories
+10/27		2			Continue research for tagging and work with anoop and ammar on implementaion stages 
+
