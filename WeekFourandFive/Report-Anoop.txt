@@ -1,0 +1,27 @@
+== Weekly Individual Report (Team 7: Quillio) ===
+
+Name: Anoop Jain
+
+Week 4/5 (Summary)
+
+10/10 2 N/A Research into benefits of GST Asynch vs GST streaming. 
+
+10/13 3 N/A Research how to customize the GST algorithm to work well for speaker diarization and conversational speech 
+
+10/14 1 N/A Revisit CMU Sphinx
+
+10/18 4 N/A Revisit flask and Mdbootstrap tutorials to learn how to integrate meeting page with UI
+
+10/19 2 N/A Meeting, went over research with rest of team 
+
+10/20 4 N/A Started coding keyword analysis into GST alg
+
+...
+
+Week 6 (Plan)
+
+10/22 3 finish keywords analysis for GST alg 
+10/23 4 meeting, start working on UI page for meeting integration, coordinate with team 
+10/24 2 integrate keyword analysis with GST alg and meeting page  
+10/26 3 meeting, go over integrations with team 
+10/28 2 start integrating research into google matrix api
