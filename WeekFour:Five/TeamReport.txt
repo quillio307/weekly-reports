@@ -1,0 +1,25 @@
+=== Weekly Team Report (Team 07: Quillio) ===
+
+Week 4/5 (Summary) (Scrum Master: Jenna Ellis)
+DATE		HOURS		COMMIT ID		INFO
+10/11		2			N/A				Work on sprint retrospective document and submit
+10/12		4			edfb8a2			Work on sprint 2 planning, set hours, and submit
+10/15		1			N/A				Team meeting to discuss progress and plans, address the fact that we have exams this week and will likely lose a lot of productivity 
+10/19		1.5		N/A				Discuss status of stories, bugs, work together for planning
+10/22		1			7eec6b6			Team reports and discussions
+
+
+
+Week 6 (Plan) (Scrum Master: Jenna Ellis)
+[Meetings]
+10/24		Work hard to integrate all changes made so far into one application, discuss problems
+10/26		Update eachother on status of individual contributions, code clean, and integrate
+10/29		Team reports, make sure we are up to speed on schedule for sprint reviews for that week. Integrate!! Code clean !!
+
+[Individual Goals]
+Jenna Ellis: Finish emailing integration completely, research for tagging
+Charlie Crouse: Finish emails with Jenna and work on keywords with Ammar 
+Ammar Husain: Deploy current project to heroku, and work on keyword api 
+Jiwon Kim: Get chips to work with user input
+Prashanth Koushik: Finish chip work, work on front end cleaning
+Anoop Jain: Integrate meeting page with UI, finish work with Keywords for GST 
