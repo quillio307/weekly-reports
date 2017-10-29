@@ -1,0 +1,30 @@
+=== Weekly Team Report (Team 07: Quillio) ===
+
+Week 6 (Summary) (Scrum Master: Jenna Ellis)
+DATE		HOURS		COMMIT ID		INFO
+10/24		3			N/A				Team meeting to discuss progress and help eachother out with debugging and code structure. 
+10/25		3.5		d000afd			Emailing for quillio is functional, activation emails and token generation functional. Template generation protocol complete
+10/26		4			75f5f2e			Implementing third party text editor called Quill. 
+10/26		6			72b13647			Set up tagging storage with DB and search by tags in dashboard for a logged in user 
+10/26		3			N/A				Team meeting to discuss tagging structure and vocab surrounding tagging processes. Discussed plans for the weekend and next week. 
+10/28		2			133d695			Start integrating research into google matrix API for streaming transcription on screen
+10/29		4			c5e7687			Added routes for meetings in progress and socket io stuff. 
+
+
+
+
+
+Week 7 (Plan) (Scrum Master: Jenna Ellis)
+[Meetings]
+10/31		Plan to have emailing completely done and have transcripted into the code base. Discuss tagging and highlighting algs and general review prep
+11/2		Meet to assess progress on tagging, continue work on everything and test all features and practice for the demo 
+11/3		Sprint review and code demo. After demo, assess what happened and plan for next meeting. 
+
+
+[Individual Goals]
+Jenna Ellis: Test all emailing processes, work with ammar and anoop on tagging. Test everything and clean up UI. 
+Charlie Crouse: Complete tagging and highlighting research and processsing. Test miscellaneous and prepare for demo
+Ammar Husain: Get transcripton working with everything and finish tagging and tests. 
+Jiwon Kim: Finish integrating text editor for transcripts and miscellaneous testing
+Prashanth Koushik: Incorporate transcript text into third party editor and finish tag search. Simplify UI
+Anoop Jain: Finish transcript streaming and post meeting uploads
