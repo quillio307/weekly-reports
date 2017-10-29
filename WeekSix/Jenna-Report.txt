@@ -1,0 +1,19 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Jenna Ellis
+
+Week 6 (Summary)
+DATE		HOURS		COMMIT ID		INFO
+10/24		3.5		5c7c20a			Successfully got emailing integrated into the code base, set up some templating options given with sendgrid, and run some small tests. 
+10/25		3			d000afd			Send activation emails for user accounts, set up security protocol with token generation, hashing, and embedding in links in emails. Tested using Postman. Bug with email links directly. 
+10/26		3.5		eeb6ed9			Fix link embedding in emails bug, but this will need to be changed when being shipped into production code (refactoring issue). Got started on password reset. 
+10/27		2			bd90b4b			Finished coding features for password reset. Email template, token generation and hash functioning, and all views created. Needs to be tested
+10/29		3			N/A				As a group, worked on reports and did some small code clean up. Discuss plans for this entire week and the gameplan for the review this friday. 
+
+
+Week 7 (Plan)
+DATE		HOURS		INFO
+10/30		2			Run tests and fix bugs as necessary with password reset. Code cleanup and merge into master
+10/31		2			Plan to research and explicitely do layout for tagging code base and integration.
+11/1		5			Get started and make sufficient progress on tagging and miscellaneous front end clean up. 
+11/2		5			Finish up tagging, help out with miscellaneous work to be done with the entire project before review. Practice presentation at least once.
+11/3		1.5		Practice presentation and go to Sprint Review
