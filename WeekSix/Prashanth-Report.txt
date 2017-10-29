@@ -1,0 +1,17 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Prashanth Koushik
+Week 6 (Plan)
+| DATE  |  HOURS  | COMMIT ID | AGENDA
+| 10/24 | 1.0 hrs |    N/A    | Weekly Meeting
+| 10/25 | 2.0 hrs |  bc60657  | Code clean up in my branch
+| 10/26 | 2.0 hrs |  80d1e35  | Text editor research for transcript edit feature discussed is sprint document.
+| 10/27 | 3.0 hrs |  2bb9874  | Complete frontend for transcript story
+| 10/29 | 2.0 hrs |    N/A    | Weekly group meeting on Sunday and connecting transcript data to quill.js editor.
+
+Week 7 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/30 | 1.0 hrs | Code review for bugs in the system. 
+| 10/31 | 1.0 hrs | Weekly Meeting with Aviral this time.s
+| 10/01 | 5.0 hrs | Go over tag search one last time to make sure that it works because our transcripts should be implemented by now. 
+| 10/02 | 5.0 hrs | Finish up other sprint task regardless of owner.
+| 10/03 | 2.0 hrs | Sprint Review and Final Touches
