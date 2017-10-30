@@ -6,12 +6,12 @@ Week 6 (Plan)
 | 10/25 | 2.0 hrs |  bc60657  | Code clean up in my branch
 | 10/26 | 2.0 hrs |  80d1e35  | Text editor research for transcript edit feature discussed is sprint document.
 | 10/27 | 3.0 hrs |  2bb9874  | Complete frontend for transcript story and fix bugs with editor. 
-| 10/29 | 2.0 hrs |    N/A    | Weekly group meeting on Sunday and connecting transcript data to quill.js editor.
+| 10/29 | 2.0 hrs |  55e2995  | Weekly group meeting on Sunday and connecting transcript data to quill.js editor. Weekly report. 
 
 Week 7 (Plan)
 | DATE  |  HOURS  | AGENDA
-| 10/30 | 1.0 hrs | Code review for bugs in the system. 
-| 10/31 | 1.0 hrs | Weekly Meeting with Aviral this time.s
+| 10/30 | 1.0 hrs | Code review for bugs in the system. Clear up any doubts that have to do with implementing tags as discussed on Thursday.
+| 10/31 | 1.0 hrs | Weekly Meeting with Aviral this time, discuss how to move forward with completeing the rest of the tasks. 
 | 10/01 | 5.0 hrs | Go over tag search one last time to make sure that it works because our transcripts should be implemented by now. 
-| 10/02 | 5.0 hrs | Finish up other sprint task regardless of owner.
+| 10/02 | 5.0 hrs | Finish up other sprint task regardless of owner. Continue to test features implemented to make sure things do not break as new features are added. 
 | 10/03 | 2.0 hrs | Sprint Review and Final Touches
