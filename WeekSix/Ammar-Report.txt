@@ -1,0 +1,14 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 6 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 10/24 | 2.0     |    N/A    | Nginx tutorial, worked on sample reverse proxy. 
+| 10/23 | 0 hrs   |    N/A    | 
+| 10/25 | 3.0 hrs |  7da03f1  | Routes added for flask socketio in main app  
+| 10/29 | 4.0 hrs |  f8cd1fe  | Intercom and in meeting page fully integrated
+
+Week 7 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 10/31 | 5.0 hrs | Full GST integration with intercom system
+| 11/01 | 5.0 hrs | Get keyword API working with transcription text
+| 11/02 | 6.0 hrs | Integrate Keyword API with meeting notes
