@@ -1,0 +1,15 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Charlie Crouse
+
+Week 6 (Summary)
+DATE		HOURS		COMMIT ID		INFO
+10/23		4       ca7cebc	    More Cleanup
+10/24   4       ab74c72     Worked with Daniel to fix the introduced bugs in the now Modular routes
+10/25   2       N/A         Worked with team to develop our Tagging model and started refining the transcript algorithm with Anoop/Ammar
+
+Week 7 (Plan)
+DATE		HOURS		INFO
+10/30		4			Finalize Emails w/ Jenna
+10/31		4			Start implementing Tagging with the now unified meeting process.
+11/1		4			Finalize tagging of meetings.
+11/2		10		Finish Everything that hasn't been implemented yet that was planned for our sprint review
