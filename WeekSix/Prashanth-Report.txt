@@ -5,7 +5,7 @@ Week 6 (Plan)
 | 10/24 | 1.0 hrs |    N/A    | Weekly Meeting
 | 10/25 | 2.0 hrs |  bc60657  | Code clean up in my branch
 | 10/26 | 2.0 hrs |  80d1e35  | Text editor research for transcript edit feature discussed is sprint document.
-| 10/27 | 3.0 hrs |  2bb9874  | Complete frontend for transcript story
+| 10/27 | 3.0 hrs |  2bb9874  | Complete frontend for transcript story and fix bugs with editor. 
 | 10/29 | 2.0 hrs |    N/A    | Weekly group meeting on Sunday and connecting transcript data to quill.js editor.
 
 Week 7 (Plan)
