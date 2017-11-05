@@ -1,0 +1,13 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 7 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 10/31 | 5.0 hrs |  bdd5908  | Full GST integration with inmeeting page
+| 11/01 | 5.0 hrs |  051bf42  | Summarization demo
+| 11/02 | 6.0 hrs |  8bdc7f0  | Finalized keywords for speech to text API
+
+Week 8 (Plan)
+| DATE  |  Hours  | Agenda
+| 11/08 | 3.0 hrs | Improve summarization algorithim using more heuristics
+| 11/09 | 3.0 hrs | Fix GST intercom system and make it push chunks much faster
+| 11/10 | 4.0 hrs | Work on displaying the meeting transcripts as stored in the DB
