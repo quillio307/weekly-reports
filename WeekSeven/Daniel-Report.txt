@@ -1,0 +1,12 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 7 (Summary)
+| DATE  |  HOURS  | COMMIT ID | INFO
+| 10/31 | 4.0 hrs |  cd20204  | Finished text editor for hard coded text. Created dynamic edit page for each meeting. 
+| 11/02 | 8.0 hrs |  f5ed8ae  | Integrated text transcript into dynamic text editor. Added tags edit. Tweaked tag search. Integrated transcripts generation to be stored in database. 
+
+Week 8 (Plan)
+| DATE  |  HOURS  | AGENDA
+| 11/06 | 2.0 hrs | Create sprint planning document.
+| 11/08 | 3.0 hrs | Team meeting and start first story.
+| 11/11 | 8.0 hrs | Finish first story.

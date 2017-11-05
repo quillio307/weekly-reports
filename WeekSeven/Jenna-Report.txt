@@ -1,0 +1,19 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Jenna Ellis
+
+Week 7 (Summary)
+DATE		HOURS		COMMIT IT		INFO
+11/1		2			13796f8			Update gitignore and config files so all API key information isnt listed as public. Made bug fixes with email generation in development. 
+11/2		3			2d88471			Create documentation on emails, continue working with config.py organization, update links in emails and research for deployment. Research Rake-NLTK tag generator
+11/3		8			05fdb8b			Create unit tests for various functions used with authentication, group creation, meeting creation and deletion. Various clean up work and work with tags this day. 
+
+
+Week 8 (Plan)
+DATE		HOURS		INFO
+11/6		2			Complete Sprint 2 retrospective 
+11/7		4			Complete Sprint 3 Planning Document
+11/8		2			Work on assigned task from sprint 3 planning
+11/9		2			Work on assigned tasks form sprint 3 and document progress
+11/0		2			Plan for task integration and meetings for the next week
+
+

@@ -1,0 +1,16 @@
+== Weekly Individual Report (Team 7: Quillio) ===
+
+Name: Anoop Jain
+
+Week 7 Summary
+
+10/29 5 N/A integrate GST streaming with ammar code
+10/30 2 N/A integrate GST+ammarcode with frontend
+11/01 4 4e0d1339d35fb53db7025a61b2302d8ebfec1ebb did research into NLTK-RAKE, created a demo that would be integratable with the app eventually
+11/02 9 0ef1f6a87e9925664ccad5f68b3db0a9d6ee1752 created tags, integrated tags, merged topics with tags, worked with PK to create modal for keywording before meeting, helped ammar and PK create backend model for keywording and integration with GST streaming
+
+Week 8 Plan
+
+11/5 3 Weekly reports, retrospective document
+11/6 3 sprint planning document
+11/7-11/12 >4 start working on stories after spring planning for sprint 3 is complete

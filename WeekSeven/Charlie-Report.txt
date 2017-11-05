@@ -1,0 +1,16 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Charlie Crouse
+
+Week 7 (Summary)
+DATE    HOURS    COMMIT ID    INFO
+10/30   2        72d2c53      Integrated email base and cleaned up code
+10/31   2        f7a8b4f      Finished tweaking emails and invite user
+11/02   4        bd79d0d      Cleanup and Fixes to Merge Conflicts
+11/03   8        f5ed8ae      Finalizations for sprint tasks, and prep for presentations
+
+Week 8 (Plan)
+DATE    HOURS    INFO
+11/05   3        Finish Individual/Team Reports and start sprint 3 doc
+11/06   3        Continue working on sprint 3 doc
+11/07   2        Start on Tasks for sprint 3
+11/09   2        Continue with sprint tasks
