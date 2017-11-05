@@ -1,0 +1,18 @@
+== Weekly Individual Report (Team 7: Quillio) ===
+
+Name: Anoop Jain
+
+Week 6 Summary
+
+10/22 3 N/A finish keywords analysis for GST alg 
+10/23 4 711783a meeting, start working on UI page for meeting integration, coordinate with team 
+10/24 2 002e222 integrate keyword analysis with GST alg and meeting page  
+10/26 3 N/A meeting, go over integrations with team 
+10/28 2 133d695 start integrating research into google matrix api
+
+Week 7 Plan
+
+10/29 5 integrate GST streaming with ammar code
+10/30 2 integrate GST+ammarcode with frontend
+11/01 3 create model to save transcripts into MongoDB, ignore audio files for now
+11/02 >3 cram whatever we needa for the sprint review
