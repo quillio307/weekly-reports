@@ -1,0 +1,24 @@
+=== Weekly Team Report (Team 07: Quillio) ===
+
+Week 7 (Summary) (Scrum Master: Jenna Ellis)
+DATE		HOURS		COMMIT ID		INFO
+10/30		2			72d2c53			Cleaned up emailing service code and integrated into master
+10/31		5			bdd5908			Integrate speech to text with the in meeting status page
+11/1		3			8c7fe82			Implement save and edit integration for transcription editor (using a text editor embedded in our web app)
+11/2		4			4e0d133			Rake NLTK integration to get started on tagging large groups of text
+11/3		8			39d9tef/8cc33ff Tagging integration into the base application on transcription creation 
+
+
+Week 8 (Plan) (Scrum Master: Jenna Ellis)
+[Meetings]
+11/6			Complete Sprint 2 retrospective if not complete by this point, begin work on sprint 3 planning document
+11/7			Complete sprint 3 planning document and revise accordingly. 
+11/9			Group meeting to work on individual development efforts and planning for the next week. 
+
+[Individual Goals]
+Jenna Ellis: Sprint planning document polishing and planning for the end of the semester
+Charlie Crouse: Start tasks for sprint 3 as soon as possible
+Ammar Husain: Get summarization algorithm running and polish transcript editing process
+Jiwon Kim: Group integration into meeting creation
+Prashanth Koushik: Redo transcription editing process to debug and make it cleaner
+Anoop Jain: Help with summarization algorithm and optimize speech to text engine
