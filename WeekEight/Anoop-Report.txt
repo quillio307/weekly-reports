@@ -1,0 +1,17 @@
+== Weekly Individual Report (Team 7: Quillio) ===
+
+Name: Anoop Jain
+
+Week 8 Summary
+11/5 3 e0c8162 Weekly reports, retrospective document
+11/6 4 N/A sprint planning document, begin research into NLTK
+11/8 1 N/A Read NTLK book chapter on parsing
+11/9 2 N/A Team meeting, continue reading NLTK book chapter
+11/11 0.5 N/A looked at meeting model and ways to store most common topic
+
+Week 9 Plan
+11/12 2 weekly reports
+11/13 2 write a demo program for NLTK rake with NLTK parsing algorithm
+11/16 5 implement most common topic (update model to include #times and topic name) & finish demo program
+11/17 3 integrate NLTK grammar parser
+11/18 2 finish integrating NLTK grammar parser and iron out any bugs
