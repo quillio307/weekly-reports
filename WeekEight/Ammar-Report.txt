@@ -1,0 +1,20 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Ammar Husain
+
+Week 8 (Summary)
+DATE		HOURS		COMMIT ID		INFO
+11/6		0			N/A				Nothing
+11/7		0			N/A				Nothing 
+11/8		2			60fa92e			Worked on input fields and editing UI for meeting transcripts
+11/9		3			051bf42			Got Text Rank summarization working for extractive summaries
+11/10		0			N/A				Nothing
+
+
+Week 9 (Plan)
+DATE		HOURS		INFO
+11/13		0			Nothing
+11/14		0			Nothing
+11/15		2			Finish up the editing page for transcript
+11/16		3			Add route for summarization
+11/17		3			Integrate summarization route into UI
+11/18		5			Make in meeting recording much smoother, have chunks send much faster, and increase mic silence threshold
