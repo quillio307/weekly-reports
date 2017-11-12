@@ -2,27 +2,27 @@
 
 Week 8 (Summary) (Scrum Master: Jenna Ellis)
 DATE		HOURS		COMMIT ID		INFO
-
-
-
-
-
-
+11/6		2			N/A				Completed Sprint 2 Retrospective document, began sprint 3 planning 
+11/7		3			N/A				Completed Sprint 3 planning and associated documents. Worked on a few wire frames for this sprint 
+11/8		3			3125a21			Integrated TextRank for summarization algorithm
+11/9		5			47d0f41			Added contribution counter for meetings and groups (for statistics and analytics)
+11/10		3			007b4f7			Added user frequent meeting member stats and meeting count
+11/10		3			60fa92e			Work on UI for editing meeting transcripts
 
 
 Week 9 (Plan) (Scrum Master: Jenna Ellis)
 [Meetings]
-
-
-
-
+DATE		HOURS		INFO
+11/14		3			Group meeting to discuss next steps in summarization integration, status on front end effort (since that is a  big part of our sprint)
+11/16		3			Group meeting to plan for any work to be done over thanksgiving break. Do group integration of all code, merging to master and try to deploy
+11/19		3-4		Weekly reports and group session to code as much of stories as possible before leaving for break 
 
 
 
 [Individual Goals]
-Jenna Ellis:
-Charlie Crouse: 
-Ammar Husain: 
-Jiwon Kim: 
-Prashanth Koushik: 
-Anoop Jain: 
+Jenna Ellis: Finish user landing page and user statistics
+Charlie Crouse: Finish user profile and user statistics, help PK and jenna on our shared stories (user and group landing)_
+Ammar Husain: Improve in meeting transcription process, and finish the edit meeting UI updates
+Jiwon Kim: Search by group implementation, write tests for group tests
+Prashanth Koushik: Group landing page creation (front end focus)
+Anoop Jain: Most common user topic statistic complete and write NLTK chapter on grammar parsing
