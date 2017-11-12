@@ -1,0 +1,16 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Charlie Crouse
+
+Week 8 (Summary)
+DATE    HOURS    COMMIT ID    INFO
+11/07   3        N/A          Did the sprint planning document
+11/08   1        c1aecd8      Started User statistics w/ Jenna (Her commit)
+11/09   3        2eac258      Sprint Meeting and Continued working on User profiles with Jenna
+11/12   3        N/A          Continue working on user profiles
+
+Week 9 (Plan)
+DATE    HOURS    INFO
+11/13   1        Add the google calendar feature
+11/14   3        Add the group landing page
+11/16   3        Keep working on user stats w/ jenna
+11/17   3        Update Meeting Model to work with stats
