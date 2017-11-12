@@ -1,0 +1,20 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Jenna Ellis
+
+Week 8 (Summary)
+DATE		HOURS		COMMIT ID		INFO
+11/6		2			N/A				Completed Sprint 2 retrospective and got started on sprint 3 planning
+11/7		3			N/A				Sprint 3 planning meeting and document drafting 
+11/8		1.5		c1aecd8			Cleaned up git repository branches, moved sprint tasks over to trello, and added statistics fields to user document
+11/9		2.5		bf5a197			Planned out algorithm for frequent member attribute for users. Complexity analysis took a lot of time, significant progress made today
+11/10		1.5		007b4f7			Completed frequent meeting member updating for user field, got started on creating user profile/landing pages to include statistics
+
+
+Week 9 (Plan)
+DATE		HOURS		INFO
+11/13		2			Work on front-end development to create a user landing page, tie into backend already written
+11/14		3			Integrate and test user statistics already implemented, work on frequent topics statistic for users
+11/15		2			Run tests on all user statistics development efforts, work on groups landing pages and statistics
+11/16		3			Complete user statistics, merge to master. Continue working on group landing pages 
+11/17		2			Finish up front end for landing pages, help out with group statistics
+11/18		2			Assess progress on group statistics and summarization with ammar, work on things that are causing problems 			
