@@ -1,18 +1,18 @@
 === Weekly Individual Report (Team 07: Quillio) ===
 Name: Prashanth Koushik
 
-Week 7 (Summary)
+Week 8 (Summary)
 | DATE  |  HOURS  | COMMIT ID | AGENDA
-| 10/31 | 1.0 hrs |  a2759b0  | Weekly Meeting with Aviral this time, sprint demo trial. Finished 	 |		 |		   |		   | hardcoded text with text editor.
-| 11/01 | 3.0 hrs |  8c7fe82  |	Implement save and edit with hardcoded text 
-| 11/03 | 8.0 hrs |	 39d92ef  |	Integration of Speech to Text in meeting with UI, and 		         |	     |         |  8cc33ff  | Integration of NLT-RAKE with Frontend UI
-|    	|		  |	 7a78ba1  |	Finish UI for Sprint Review and testing features before review.	
-| 11/03 | 2.0 hrs |	 14aa1cd  | Added chips to different inputs. (AFTER SPRINT REVIEW)
+| 11/06 | 3.0 hrs |  17bf946  | Sprint Planning Document and Retrospective
+| 11/07 | 2.0 hrs |  17bf946  | Weekly Tuesday Meeting for Progress and Finish up Sprint Planning Document
+| 11/08 | 3.0 hrs |    N/A    | Clean up code and plan how to implement a better way to edit transcript. 
+| 11/09 | 3.0 hrs |  ask ammu | Weekly Thursday Meeting for Progress discussed a better way to implement editing transcript by saving speaker to aid with user statisitics. 
+| 11/12 | 1.0 hrs |  cfbec25  | Weekly Sunday Meeting
 
-Week 8 (Plan)
+Week 9 (Plan)
 | DATE  |  HOURS  | AGENDA
-| 11/06 | 3.0 hrs | Sprint Planning Document
-| 11/07 | 2.0 hrs | Weekly Tuesday Meeting for Progress and Finish up Sprint Planning Document
-| 11/08 | 3.0 hrs | Clean up code and plan how to implement a better way to edit transcript. 
-| 11/09 | 1.0 hrs | Weekly Thursday Meeting for Progress 
-| 11/12 | 1.0 hrs | Weekly Sunday Meeting
+| 11/14 | 2.0 hrs | Weekly Thursday Meeting to plan for Thanksgiving break because some team members are leaving early. 
+| 11/15 | 3.0 hrs |  
+| 11/16 | 3.0 hrs | Weekly Thursday Meeting to plan for Thanksgiving break because some team members are leaving early. 
+| 11/17 | 3.0 hrs | 
+| 11/19 | 1.0 hrs | Weekly Sunday meeting (this time over video chat).
