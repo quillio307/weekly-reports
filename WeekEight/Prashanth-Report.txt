@@ -12,7 +12,7 @@ Week 8 (Summary)
 Week 9 (Plan)
 | DATE  |  HOURS  | AGENDA
 | 11/14 | 2.0 hrs | Weekly Thursday Meeting to plan for Thanksgiving break because some team members are leaving early. 
-| 11/15 | 3.0 hrs |  
+| 11/15 | 3.0 hrs | Work on landing page for groups to display static information (will be dynamically set once statistics are final)
 | 11/16 | 3.0 hrs | Weekly Thursday Meeting to plan for Thanksgiving break because some team members are leaving early. 
-| 11/17 | 3.0 hrs | 
+| 11/17 | 3.0 hrs | Integrate landing page with dynamic statistics from new transcript layout and Jenna/Charlie's statistic branches.
 | 11/19 | 1.0 hrs | Weekly Sunday meeting (this time over video chat).
