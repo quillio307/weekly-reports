@@ -2,9 +2,11 @@
 
 Week 9 (Summary) (Scrum Master: Jenna Ellis)
 DATE    HOURS   COMMIT-ID   INFO
-
-
-
+11/14    1      6397972     Added calendar links within application to schedule meetings easily. 
+11/16    2      17e9fa4     Created a landing page template for user profile and groups pages. 
+11/16    2      c8f2421     Updated topics to be single words and improved algorithm efficiency. 
+11/18    3      5581420     Integrate drag and drop and other front end improvements to edit meeting page. 
+11/19    3      2b225de     Completed group landing page, fixed meeting deletion dependencies not covered by mongodb, and did database cleanup. 
 
 Week 10 and 11 (Plan) (Scrum Master: Jenna Ellis)
 [Meetings]
