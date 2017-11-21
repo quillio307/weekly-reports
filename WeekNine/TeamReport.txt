@@ -2,25 +2,25 @@
 
 Week 9 (Summary) (Scrum Master: Jenna Ellis)
 DATE    HOURS   COMMIT-ID   INFO
-11/14    1      6397972     Added calendar links within application to schedule meetings easily. 
-11/16    2      17e9fa4     Created a landing page template for user profile and groups pages. 
-11/16    2      c8f2421     Updated topics to be single words and improved algorithm efficiency. 
-11/18    3      5581420     Integrate drag and drop and other front end improvements to edit meeting page. 
-11/19    3      2b225de     Completed group landing page, fixed meeting deletion dependencies not covered by mongodb, and did database cleanup. 
+11/14    1      6397972     Added calendar links within application to schedule meetings easily.
+11/16    2      17e9fa4     Created a landing page template for user profile and groups pages.
+11/16    2      c8f2421     Updated topics to be single words and improved algorithm efficiency.
+11/18    3      5581420     Integrate drag and drop and other front end improvements to edit meeting page.
+11/19    3      2b225de     Completed group landing page, fixed meeting deletion dependencies not covered by mongodb, and did database cleanup.
 
 Week 10 and 11 (Plan) (Scrum Master: Jenna Ellis)
 [Meetings]
 DATE    HOURS   INFO
-11/20   3       Partial team meeting to discuss remaining tasks and work on what is possible with the members present. 
-11/26   2       Meeting post Thanksgiving break to discuss progress completed remotely, and what needs to be completed by the end of the week. Group work to resolve any issues encountered. 
-11/28   3       Team meeting to discuss progress on summarization and completion of all statistics defined by the project. 
-11/30   8       Final team meeting before sprint three review, and group coding session to finish everything up and clean code. 
-12/1    2       Practice for demo before demo, present sprint three work to TA. 
+11/20   3       Partial team meeting to discuss remaining tasks and work on what is possible with the members present.
+11/26   2       Meeting post Thanksgiving break to discuss progress completed remotely, and what needs to be completed by the end of the week. Group work to resolve any issues encountered.
+11/28   3       Team meeting to discuss progress on summarization and completion of all statistics defined by the project.
+11/30   8       Final team meeting before sprint three review, and group coding session to finish everything up and clean code.
+12/1    2       Practice for demo before demo, present sprint three work to TA.
 
 [Individual Goals]
-Jenna Ellis: Complete group and user landing pages completely, add professional and academic meeting tag option, and attach summaries as emails. 
+Jenna Ellis: Complete group and user landing pages completely, add professional and academic meeting tag option, and attach summaries as emails.
 Charlie Crouse: Finish User Profiles/Statistics. Add more meta choices for meetings.  Start documenting tests.
-Ammar Husain: 
-Jiwon Kim:
-Prashanth Koushik: 
-Anoop Jain: write NLTK scripts to recognize incorrect grammar in transcripts and convert raw text into sentences 
+Ammar Husain: Cleanup in meeting UI and add route for getting meeting summary
+Jiwon Kim: Add search by group name and work on group statistics front end
+Prashanth Koushik: Implement user interface adding objectives to a meeting and testing
+Anoop Jain: Write NLTK scripts to recognize incorrect grammar in transcripts and convert raw text to sentences.
