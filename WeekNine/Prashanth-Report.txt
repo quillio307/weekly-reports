@@ -1,0 +1,19 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Prashanth Koushik
+
+Week 9 (Summary)
+| DATE  |  HOURS  | COMMIT ID | AGENDA
+| 11/14 | 2.0 hrs |    N/A    | Weekly Thursday Meeting to plan for Thanksgiving break because some team members are leaving early. 
+| 11/15 | 1.0 hrs |    N/A    | Work on landing page for groups to display static information (will be dynamically set once statistics are final)
+| 11/16 | 4.0 hrs |  17e9fa4  | Create template for meeting and user statistics.
+| 11/17 | 1.0 hrs |  85cb131  | Merge pull requests.
+| 11/19 | 2.0 hrs |    N/A    | Look over status error in meeting in Jenna's branch.
+
+
+Week 10 (Plan)
+| DATE  |  HOURS  |  AGENDA
+| 11/20 | 1.0 hrs | Weekly Report
+| 11/21 | 4.0 hrs | Finish user story to add objectives before meetings
+| 11/22 | 2.0 hrs | Complete UI for checking for objectives in the meeting to see if they are accomplished.
+| 11/25 | 2.0 hrs | Finish meeting highlights for summaries.
+| 11/26 | 1.0 hrs | Weekly Sunday meeting.

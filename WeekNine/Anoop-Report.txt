@@ -1,0 +1,16 @@
+== Weekly Individual Report (Team 7: Quillio) ===
+
+Name: Anoop Jain
+
+Week 9 Summary
+11/12 2 02287a7 weekly reports
+11/13 2 N/A read through NLTK chapters
+11/16 5 72ba9bb implement most common topic (update model to include #times and topic name)
+11/17 3 c8f2421 fix topics alg to not include phrases
+
+Week 10 Plan
+11/19 2 weekly reports
+11/20 3 begin writing basic NLTK scripts
+11/21 2 have NLTK scripts able to parse transcripts and edit them into proper sentences
+11/22 3 have scripts able to detect grammar and return errors if it finds incorrect grammar
+11/23-25 >5 refine and optimize grammar scripts to work independently of quillio application (will fully integrate early next week)
