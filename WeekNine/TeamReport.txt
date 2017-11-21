@@ -23,4 +23,4 @@ Charlie Crouse: Finish User Profiles/Statistics. Add more meta choices for meeti
 Ammar Husain: 
 Jiwon Kim:
 Prashanth Koushik: 
-Anoop Jain: 
+Anoop Jain: write NLTK scripts to recognize incorrect grammar in transcripts and convert raw text into sentences 
