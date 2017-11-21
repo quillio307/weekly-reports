@@ -21,6 +21,6 @@ DATE    HOURS   INFO
 Jenna Ellis: Complete group and user landing pages completely, add professional and academic meeting tag option, and attach summaries as emails. 
 Charlie Crouse: Finish User Profiles/Statistics. Add more meta choices for meetings.  Start documenting tests.
 Ammar Husain: Cleanup in meeting UI and add route for getting meeting summary
-Jiwon Kim:
+Jiwon Kim: Add search by group name and work on group statistics front end
 Prashanth Koushik: Implement user interface adding objectives to a meeting and testing
 Anoop Jain: Write NLTK scripts to recognize incorrect grammar in transcripts and convert raw text to sentences. 
