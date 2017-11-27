@@ -14,7 +14,7 @@ Week 10 (Summary)
 | 11/20 | 4.0 hrs |   9fcff5f   | Weekly Report and other miscellaneous sprint tasks (new UI for transcripts)
 | 11/21 | 2.0 hrs |   cdbe755   | Finish user story to add objectives before meetings and fix merge conflicts
 | 11/22 | 2.0 hrs |    N/A      | Take a look at Jenna's UI for meeting/group stats.
-| 11/26 | 1.0 hrs |             | Weekly Sunday meeting online and weekly reports.
+| 11/26 | 1.0 hrs |   816e6e8   | Weekly Sunday meeting online and weekly reports.
 
 Week 11 (Plan)
 | DATE  |  HOURS  | AGENDA
