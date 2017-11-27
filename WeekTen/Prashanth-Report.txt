@@ -11,15 +11,15 @@ Week 9 (Summary from last week report)
 
 Week 10 (Summary)
 | DATE  |  HOURS  |  COMMIT ID  | AGENDA
-| 11/20 | 4.0 hrs |             | Weekly Report and other miscellaneous sprint tasks (new UI for transcripts)
-| 11/21 | 2.0 hrs |             | Finish user story to add objectives before meetings
-| 11/22 | 2.0 hrs |             | Complete UI for checking for objectives in the meeting to see if they are accomplished.
+| 11/20 | 4.0 hrs |   9fcff5f   | Weekly Report and other miscellaneous sprint tasks (new UI for transcripts)
+| 11/21 | 2.0 hrs |   cdbe755   | Finish user story to add objectives before meetings and fix merge conflicts
+| 11/22 | 2.0 hrs |    N/A      | Take a look at Jenna's UI for meeting/group stats.
 | 11/26 | 1.0 hrs |             | Weekly Sunday meeting online and weekly reports.
 
 Week 11 (Plan)
 | DATE  |  HOURS  | AGENDA
-| 11/27 | 1.0 hrs | Weekly Report
-| 11/28 | 4.0 hrs | Finish user story to add objectives before meetings
-| 11/29 | 2.0 hrs | Complete UI for checking for objectives in the meeting to see if they are accomplished.
-| 11/30 | 2.0 hrs | Finish meeting highlights for summaries.
+| 11/27 | 1.0 hrs | Weekly Report and understand backend for speech summarization.
+| 11/28 | 2.0 hrs | Meet up with team to discuss progress and how to move forwards and finish UI tasks.
+| 11/29 | 3.0 hrs | Finish sprint tasks
+| 11/30 | 5.0 hrs | Finish sprint tasks
 | 12/01 | 1.0 hrs | Sprint demo
