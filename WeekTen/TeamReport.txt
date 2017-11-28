@@ -23,4 +23,4 @@ Charlie Crouse: Finish User Profiles/Statistics. Add more meta choices for meeti
 Ammar Husain: Cleanup in meeting UI and add route for getting meeting summary, complete summary generation
 Jiwon Kim: Add search by group name and work on group statistics front end
 Prashanth Koushik: Implement user interface adding objectives to a meeting and testing
-Anoop Jain: Write NLTK scripts to recognize incorrect grammar in transcripts and convert raw text to sentences.
+Anoop Jain: Write NLTK scripts to recognize incorrect grammar in transcripts and alert users of this fact.
