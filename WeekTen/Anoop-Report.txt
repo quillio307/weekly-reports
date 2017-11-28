@@ -2,15 +2,18 @@
 
 Name: Anoop Jain
 
-Week 9 Summary
-11/12 2 02287a7 weekly reports
-11/13 2 N/A read through NLTK chapters
-11/16 5 72ba9bb implement most common topic (update model to include #times and topic name)
-11/17 3 c8f2421 fix topics alg to not include phrases
+Week 10 Summary
+11/19 9da953e 2 weekly reports
+11/20 N/A 3 begin writing basic NLTK scripts
+11/21 32179a0 2 have NLTK scripts able to parse transcripts and edit them into proper sentences
+11/22 a04f106 3 have scripts able to detect grammar and return errors if it finds incorrect grammar
+11/24 N/A 3 refine and optimize grammar scripts to work independently of quillio application, with a fake transcript
+11/25 N/A 37c66ff 2 begin integrating grammar with quillio app
+11/26 2705812 2 transcipts will have punctuation added to them automatically
 
-Week 10 Plan
-11/19 2 weekly reports
-11/20 3 begin writing basic NLTK scripts
-11/21 2 have NLTK scripts able to parse transcripts and edit them into proper sentences
-11/22 3 have scripts able to detect grammar and return errors if it finds incorrect grammar
-11/23-25 >5 refine and optimize grammar scripts to work independently of quillio application (will fully integrate early next week)
+Week 11 Plan
+11/27 2 weekly reports
+11/28 3 begin creating a grammar schema that will work with new punctuated transcripts
+11/29 4 weekly meeting, integrate schema into db and work with ammar
+11/30 4 probably an all nighter finishing whatever I haven't yet at this point
+12/1 2 prep for sprint review, do sprint review
