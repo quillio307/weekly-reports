@@ -1,21 +1,17 @@
 === Weekly Individual Report  (Team 07: Quillio) ===
 Name: Jenna Ellis
 
-Week 9 (Summary):
-DATE    HOURS   COMMIT ID   INFO
-11/16    2       b0bead2    Creating group landing page controller and views. Planning for meeting creation 
-11/16    1       69ed062    Creating meeting from group landing page, populates email input with group emails. 
-11/17    2       eb72332    Meeting creation from group landing page completed and synched across user accounts and dashboards
-11/19    3       2b225de    Debugged a group of errors with meeting deletion and non-synching across different db entries, and multiple meeting listing errors on group landing page. 
+Week 10 (Summary):
+DATE    HOURS   COMMIT-ID   INFO
+11/20   2       N/A        Ran checks on everyone's progress, cleaned up trello, group landing page completed. 
+11/21   2       N/A        Manual testing on user statistic storage in the database
+11/25   2       c05a193    Added data fields for nature of meeting to meeting model, learned how to add radio buttons to forms
+11/26   1       N/A        Continued researching how to integrate radio buttons to front end on modal to connect with backend 
 
 
-Week 10 and 11 (Planning):
+Week 11 (Planning):
 DATE    HOURS   INFO
-11/20   3       Refine details on group landing page, run manual tests, create user profile template
-11/21   2       Continue work on user profile templates, finish up any user statistics manual testing
-11/25   2       Assess status of group statistics display, help where necessary. Finish user profile. 
-11/26   2       Team meeting, assess status of project as whole, work on last sprint tasks as necessary. 
-
-11/27   2       Assist with note summarization and add email attachment features at the end of the meeting.
-11/28   1       Add professional or academic filter for meetings and purpose (requires a backend update as well)
+11/27   2       Complete adding meeting nature (professional/academic/other) to front end, run tests. Merge. 
+11/28   2       Assist with note summarization and add email attachment features at the end of the meeting.
+11/29   2       Finish up user statistics and make a quick user landing page (profile)
 11/30   8       Clean up frontend, help refine meeting process, add anything deemed necessary. 
