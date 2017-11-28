@@ -9,12 +9,18 @@ DATE		HOURS		COMMIT ID		INFO
 11/9		5			5581420			Basic Create and update of new edit transcript UI
 11/10		0			N/A				Nothing
 
+Week 10 (Summary)
+DATE		HOURS		COMMIT ID 		INFO
+11/13		5			N/A				Researched textrank summarization, got demo working locally
+11/14		4			1c2e38c			Fixed GST params to allow for faster transcription
+11/15		0			N/A				Nothing
+11/16		0			N/A				Nothing
+11/17		0			N/A				Nothing
+11/18		0			N/A				Nothing
 
-Week 10 (Plan)
+Week 11 (Plan)
 DATE		HOURS		INFO
-11/13		4			Finish up the dyamic transcript edit
-11/14		4			Fix mic silence threshold
-11/15		4			Integrate Text Rank
-11/16		0			Nothing
-11/17		0			Nothing
-11/18		5			Clean up in meeting UI
+11/27		4			Finish summarization route
+11/28		4			Add contribution score for users
+11/29		4			Write tests for stories
+11/30		4			Clean up code, room for other stories
