@@ -1,13 +1,13 @@
 === Weekly Individual Report (Team 07: Quillio) ===
 Name: Daniel Kim 
-Week 9 (Summary)
+Week 9/10 (Summary)
 | DATE  |  HOURS  | COMMIT ID | INFO
 | 11/14 | 3.0 hrs |    N/A    | Team meeting and discussed group landing page.
 | 11/16 | 3.0 hrs |    N/A    | Team meeting. Discussed frequent topic and tags.
 | 11/16 | 3.0 hrs |  cb005a1  | Added Group Landing page and created meetings parameter for group 
 | 11/17 | 2.0 hrs |    N/A    | Reconfigured pipenv 
 
-Week 10 (Plan)
+Week 11 (Plan)
 | DATE  |  HOURS  | AGENDA
-| 11/22 | 6.0 hrs | Work on displaying group analytics
-| 11/26 | 4.0 hrs | Integrate analytics modal 
+| 11/28 | 6.0 hrs | Work on displaying group analytics
+| 11/30 | 6.0 hrs | Integrate analytics modal 
