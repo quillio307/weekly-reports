@@ -1,8 +1,13 @@
 === Weekly Individual Report  (Team 07: Quillio) ===
 Name: Jenna Ellis
 
-Week 10 (Summary):
+Week 9 and 10 (Summary):
 DATE    HOURS   COMMIT-ID   INFO
+11/16    2       b0bead2    Creating group landing page controller and views. Planning for meeting creation 
+11/16    1       69ed062    Creating meeting from group landing page, populates email input with group emails. 
+11/17    2       eb72332    Meeting creation from group landing page completed and synched across user accounts and dashboards
+11/19    3       2b225de    Debugged a group of errors with meeting deletion and non-synching across different db entries, and multiple meeting listing errors on group landing page. 
+
 11/20   2       N/A        Ran checks on everyone's progress, cleaned up trello, group landing page completed. 
 11/21   2       N/A        Manual testing on user statistic storage in the database
 11/25   2       c05a193    Added data fields for nature of meeting to meeting model, learned how to add radio buttons to forms
