@@ -1,20 +1,17 @@
 === Weekly Individual Report (Team 07: Quillio) ===
 Name: Charlie Crouse
 
-Week 9 (Summary)
+Week 9/10 (Summary)
 DATE    HOURS    COMMIT ID    INFO
 11/14   5        aaaee22      add statistics fields for users, user frequent meeting members statistics for users, total meeting count
 ...     1        9a2422e      set up git hooks so everyone can only commit beautiful code
 ...     .5       4b58f78      added google calendar integration to side nav
 
 
-Week 10/11 (Plan)
-DATE    HOURS    INFO
-11/19   N/A      Meeting to discuss current progress and plans for break
-11/20   3        Finish UI for User Profiles and statistics
-11/21   3        Begin Refining the in meeting process to include pre-meeting objectives
-11/26   3        Meeting with team to discuss the current state of the sprint.  Start documenting manual tests
-
-11/28   2        Continue Documenting tests
-11/29   2        Start working on final in meeting summarization
+Week 11 (Plan)
+11/28   3        Finish UI for User Profiles and statistics
+...              Begin Refining the in meeting process to include pre-meeting objectives
+...              Meeting with team to discuss the current state of the sprint.  Start documenting manual tests
+11/29   4        Continue Documenting tests
+...              Start working on final in meeting summarization
 11/30   8        Finalize the rest of the sprint tasks
