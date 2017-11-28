@@ -7,8 +7,8 @@ DATE    HOURS   COMMIT-ID   INFO
 11/16    2      c8f2421     Updated topics to be single words and improved algorithm efficiency.
 11/18    3      5581420     Integrate drag and drop and other front end improvements to edit meeting page.
 11/19    3      2b225de     Completed group landing page, fixed meeting deletion dependencies not covered by mongodb, and did database cleanup.
-11/20   3       Partial team meeting to discuss remaining tasks and work on what is possible with the members present.
-11/26   2       Meeting post Thanksgiving break to discuss progress completed remotely, and what needs to be completed by the end of the week. Group work to resolve any issues encountered.
+11/20    3      N/A         Partial team meeting to discuss remaining tasks and work on what is possible with the members present.
+11/26    2      N/A          Meeting post Thanksgiving break to discuss progress completed remotely, and what needs to be completed by the end of the week. Group work to resolve any issues encountered.
 
 Week 11 (Plan) (Scrum Master: Jenna Ellis)
 [Meetings]
