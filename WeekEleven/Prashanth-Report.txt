@@ -1,0 +1,10 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Prashanth Koushik
+
+Week 11 (Summary)
+| DATE  |  HOURS  |  COMMIT ID  |  AGENDA
+| 11/27 | 1.0 hrs |     N/A     |  Weekly Report and understand backend for speech summarization [RESEARCH]
+| 11/28 | 2.0 hrs |   d51e13c   |  Edit transcript page to incorporate new transcript edit feature without transcript editor Quill.js.
+| 11/29 | 3.0 hrs |   879cf44   |  Continuing objectives and fixed minor bugs with Quillio which are effected by redesign.
+| 11/30 | 5.0 hrs |   2da13af   |  Finished objective checklist using topics generated. Fixed bug in which topics will not be generated when saving the transcript.
+| 12/01 | 1.0 hrs |   381bfe5   |  Added feature in which admins can edit the objectives for each meeting instance also did Sprint demo
