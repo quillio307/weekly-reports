@@ -1,0 +1,9 @@
+== Weekly Individual Report (Team 7: Quillio) ===
+
+Name: Anoop Jain
+
+Week 11 Summary
+11/27 2 dd3865e weekly reports
+11/28 3 N/A Research punctuation APIs, read into NLTK CH 8 even more, attempt to punctuate plain text
+11/29 4 79e1c91 Weekly Meeting, Integrate punctuation API (online model) with end-of-meeting
+11/30-12/1 8 0763ebd  Find grammar API, deal with dependency issues, integrate grammar API, testing documents
