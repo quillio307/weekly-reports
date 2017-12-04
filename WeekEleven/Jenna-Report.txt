@@ -1,0 +1,9 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Jenna Ellis
+
+Week Eleven (Summary) 
+DATE    HOURS   COMMIT ID   INFO
+11/27   2       c05a193     Work on adding option for user to specify a meeting as professional or academic in nature. 
+11/28   4       033ff14     Complete meeting nature specification on meeting dashboard and group landing page. Fixed redirect error in group landing page. 
+11/30   7       ff1463c     Allow meetings to be edited from group landing page. A large number of general bug fixes and testing. 
+12/1    5       81f1b8f     Allow meetings to be filtered based off of their nature specification. Bug fixes for emailing. Review.
