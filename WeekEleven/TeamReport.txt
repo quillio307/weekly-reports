@@ -2,3 +2,10 @@
 
 Week Eleven (Summary) (Scrum Master: Jenna Ellis)
 DATE    HOURS     COMMIT ID   INFO
+11/28   4         558f96c     Added meeting nature specification to all meeting creation points and added meeting editing redirect from a group landing page. 
+11/30   3         eee7cc8     Group meeting search on meeting dashboard completed and bug-free. 
+11/30   5         6953c2b     Meeting objectives story completed (front end view, notification of completion, etc)
+12/1    3         2b6753b     Completed user statistics checking and display on the front end. 
+12/1    3         0c6d498     Completed grammar checking and notification of error on front end. 
+12/1    3         9b39dA3     Completed meeting summarization with emailing process completely implemented and available on the front end. 
+
