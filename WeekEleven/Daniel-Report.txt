@@ -1,0 +1,8 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Daniel Kim 
+Week 11 (Plan)
+| DATE  |  HOURS  | COMMIT ID | INFO 
+| 11/27 | 4.0 hrs |  8b45175  | Fixed meeting search exception error. Added search function for groups.
+| 11/28 | 3.0 hrs |  765374f  | Added frequent tags and topics
+| 11/30 | 6.0 hrs |  eee7cc8  | Fixed group search to accept search tokens before the group query
+                              | Fixed some bugs in template that rendered cards incorrectly
