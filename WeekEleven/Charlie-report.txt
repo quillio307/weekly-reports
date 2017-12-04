@@ -1,0 +1,8 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Charlie Crouse
+
+Week 11 (Summary)
+DATE    HOURS    COMMIT ID    INFO
+11/30   4        1e8144e94    Added stats display for users/groups
+12/01   2        335b5b17f    Improved robustness of stats for users
+...     3        e65a1ddab    Added unit tests and documented manual tests
