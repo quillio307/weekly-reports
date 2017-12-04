@@ -1,0 +1,9 @@
+=== Weekly Individual Report (Team 07: Quillio) ===
+Name: Ammar Husain
+
+Week Eleven (Summary) 
+DATE    HOURS   COMMIT ID   INFO
+11/27   4       6696eee     Worked on summarization route. 
+11/28   4       bcccc2e     Finished summarization route.
+11/30   4       0763ebd     Work on grammar detection with anoop.
+12/1    5       84b5ce4    	Add emails with Summarization route.
